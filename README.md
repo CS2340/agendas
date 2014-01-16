@@ -1,7 +1,7 @@
 team info 
 =======
 
-team info 
+team info and etc. 
 
 team member emails: 
 bryan koo      bwskoo@gmail.com 
